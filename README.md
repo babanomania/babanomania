@@ -6,7 +6,7 @@ I'm passionate about **building, exploring, and innovating** — whether it's th
 ## 🔥 About Me
 - 💻 Tech Enthusiast | Problem Solver | Lifelong Learner
 - 🌟 Currently exploring **cloud architecture**, **DevSecOps**, **real-time data systems**, and **AI/ML integration**
-- 🛠️ Skilled in **Node.js**, **React**, **Kafka**, **Flink**, **Rust**, and **Solana blockchain**
+- 🛠️ Skilled in designing event-driven architectures, building LLM-powered applications, crafting clean and responsive UIs, and deploying secure, containerized systems using tools like React, Kafka, Flink, Next.js, and Kubernetes
 - 🎯 Focused on **building secure, scalable, and impactful software** systems
 
 ## 🚀 What I'm Working On
