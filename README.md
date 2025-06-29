@@ -1,62 +1,57 @@
-# 👋 Hi, I'm Shouvik!
+# Hi, I'm Shouvik
 
-Welcome to my corner of GitHub! 🚀  
-I'm passionate about **building, exploring, and innovating** — whether it's through code, ideas, or learning something new every day.
+Welcome to my GitHub profile. I explore ideas, break things (sometimes on purpose), and try to build software that's useful, secure, and a little bit different.
 
-## 🔥 About Me
-- 💻 Tech Enthusiast | Problem Solver | Lifelong Learner
-- 🌟 Currently exploring **cloud architecture**, **DevSecOps**, **real-time data systems**, and **AI/ML integration**
-- 🛠️ Skilled in designing event-driven architectures, building LLM-powered applications, crafting clean and responsive UIs, and deploying secure, containerized systems using tools like React, Kafka, Flink, Next.js, and Kubernetes
-- 🎯 Focused on **building secure, scalable, and impactful software** systems
+## About Me
 
-## 🚀 What I'm Working On
+- Technical architect. Builder of things. Constant learner.
+- Currently spending time on cloud architecture, DevSecOps, real-time data systems, and making LLMs do more than autocomplete buzzwords.
+- Deeply interested in UI/UX design — not just how things look, but how they explain themselves, guide users, and recover gracefully when things go wrong.
+- I work across the stack — designing distributed systems, building LLM-powered tools, deploying containerized applications, and obsessing a bit over observability and feedback loops.
 
-- 📡 **Designing Real-Time Distributed Systems**  
-  Exploring stream processing, ETL pipelines, and event-driven architectures using tools like Kafka, Flink, and Airflow, with an emphasis on fault tolerance, throughput, and horizontal scalability.
+I believe in systems that are simple (but not simplistic), honest (especially about failure), and built with care.
 
-- 🧠 **Operationalizing LLMs and Agentic Workflows**  
-  Investigating the use of open-source language models (e.g., TinyLlama, Ollama) in domain-specific assistants, integrating reasoning loops, prompt chaining, and retrieval-augmented generation for practical applications.
+## Skills & Tools
 
-- 🕸️ **Composable Web Platforms with Edge-First Thinking**  
-  Building micro frontends and serverless-first backends, leveraging frameworks like Next.js, Supabase, and TailwindCSS to deliver resilient, clean, and performant web applications.
+**Architecture & Systems Design**  
+- High availability, scalable system design, event-driven architecture, secure SDLC, shift-left security, threat modeling  
+- Solution architecture across cloud (OCI, AWS), edge, and serverless platforms  
 
-- 🔐 **Secure-by-Design DevSecOps Practices**  
-  Embedding shift-left security concepts, role-based access controls, and CI/CD automation with containerized deployment patterns, especially in multi-cloud and edge environments.
+**DevOps & Infrastructure**  
+- Docker, Kubernetes, Terraform, Ansible, GitHub Actions, CI/CD for multi-cloud and on-prem environments  
 
-- 🧭 **Enterprise Observability and Telemetry-First Design**  
-  Designing systems with baked-in observability using OpenTelemetry and Superset, enabling traceability, real-time alerts, and proactive anomaly detection across the stack.
+**Data & Streaming**  
+- Apache Kafka, Apache Flink, Kafka Connect, ksqlDB, Airflow  
+- CDC pipelines, real-time analytics, observability-driven streaming apps  
 
-- 🧩 **UX-Driven System Thinking**  
-  Balancing system design with empathetic UX, focusing on feedback loops, accessibility, and minimalist interfaces that reduce cognitive load while increasing user trust.
+**AI & LLM Integration**  
+- TinyLlama, Qwen, DeepSeek, Ollama, LangChain, CrewAI, OpenAI APIs  
+- Fine-tuning, retrieval-augmented generation, agentic workflows, local inference  
 
-- ⛓️ **Decentralized Web and Digital Asset Interactions**  
-  Experimenting with smart contract interactions, NFT-based incentive systems, and identity primitives on platforms like Solana, within real-world user-facing contexts.
+**Frontend & Backend Development**  
+- React, Next.js, TailwindCSS, Shadcn UI  
+- Node.js, Fastify, Supabase, Prisma, PostgreSQL, SQLite  
 
-## 🧠 Theoretical Focus Areas
-| Category | Focus |
-| :--- | :--- |
-| Cloud Architecture | High Availability, Scalability, Resilience Design Patterns |
-| DevSecOps | Secure SDLC, Threat Modeling, Shift-Left Security |
-| Data Streaming | Event-Driven Architecture, Stream Processing Concepts |
-| Blockchain | Decentralized Application Design, Smart Contract Patterns |
-| AI/ML Integration | Prompt Engineering, Agentic Workflows, Fine-tuning Open-Source LLMs |
-| Enterprise Architecture | Solution Architecture, System Integration Patterns |
-| Enterprise Observability | Distributed Tracing, Metrics, Logging, OpenTelemetry |
-| UX Design | User-Centric Design, Accessibility, Interaction Design Principles |
+**Monitoring & Observability**  
+- OpenTelemetry, Superset, Discord Webhook monitoring, alert engineering, trace-based debugging  
 
-## 🛠️ Practical Tech Stack
-| Domain | Tools & Technologies |
-| :--- | :--- |
-| **Frontend Engineering** | React, Next.js, Tailwind CSS, Shadcn UI |
-| **Backend Services** | Node.js, Fastify, Express, Supabase, Prisma |
-| **DevOps & Automation** | Docker, Kubernetes, Ansible, Terraform |
-| **Data & Streaming** | Apache Kafka, Flink, Airflow, Kafka Connect, ksqlDB |
-| **Databases** | PostgreSQL, Supabase, MinIO (S3-compatible), SQLite |
-| **AI & LLM Integration** | TinyLlama, Ollama, LangChain, CrewAI, OpenAI API |
-| **Cloud & Edge** | Oracle Cloud, AWS |
-| **Observability & Monitoring** | OpenTelemetry, Superset, Discord Webhooks |
-| **Web3 & Blockchain** | Solana, NFTs, Wallet Adapters, Token APIs |
+**Security & Privacy**  
+- Vaultwarden integration, proof-of-work CAPTCHA design, behavior-driven access control, self-hosted infrastructure  
 
-## 🚀 Let's Build Something Amazing!
-- 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/shouvikbasu/)*
-- 📬 Feel free to connect, collaborate, or just say hi!
+**Web3 & Blockchain Experiments**  
+- Solana, smart contract interaction, token APIs, NFT-based incentive systems  
+
+## If You’ve Scrolled This Far...
+
+You either:
+
+- Have a genuine interest in what I do (hello!),
+- Got lost while looking for something else (hi anyway), or
+- Are a recruiter using Ctrl+F to search for keywords like "Kubernetes" or "LLM" (don’t worry, I included both).
+
+Either way, I appreciate you making it this far. If you’re into building things that are private by design, observable by default, and slightly chaotic in spirit — we’ll probably get along.
+
+Pull requests welcome. So are unsolicited DMs, as long as they contain memes, merge requests, or mildly philosophical hot takes.
+
+- LinkedIn: [https://www.linkedin.com/in/shouvikbasu/](https://www.linkedin.com/in/shouvikbasu/)
+
