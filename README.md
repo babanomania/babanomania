@@ -43,15 +43,11 @@ I believe in systems that are simple (but not simplistic), honest (especially ab
 
 ## If You’ve Scrolled This Far...
 
-You either:
+You’ve reached the end of a README. You’re still here. That’s something.
 
-- Have a genuine interest in what I do (hello!),
-- Got lost while looking for something else (hi anyway), or
-- Are a recruiter using Ctrl+F to search for keywords like "Kubernetes" or "LLM" (don’t worry, I included both).
+If you believe software should be honest, data streams should be traceable, alerts should make sense, and LLMs should occasionally crack a joke — let’s talk.
 
-Either way, I appreciate you making it this far. If you’re into building things that are private by design, observable by default, and slightly chaotic in spirit — we’ll probably get along.
+Code is temporary. Logs are forever.
 
-Pull requests welcome. So are unsolicited DMs, as long as they contain memes, merge requests, or mildly philosophical hot takes.
-
-- LinkedIn: [https://www.linkedin.com/in/shouvikbasu/](https://www.linkedin.com/in/shouvikbasu/)
+[https://www.linkedin.com/in/shouvikbasu/](https://www.linkedin.com/in/shouvikbasu/)
 
