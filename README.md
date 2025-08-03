@@ -7,7 +7,8 @@ Welcome to my GitHub profile. I explore ideas, break things (sometimes on purpos
 - Technical architect. Builder of things. Constant learner.
 - Currently spending time on cloud architecture, DevSecOps, real-time data systems, and making LLMs do more than autocomplete buzzwords.
 - Deeply interested in UI/UX design — not just how things look, but how they explain themselves, guide users, and recover gracefully when things go wrong.
-- I'm drawn to data architecture and streaming for how they shape system behavior, building event-driven flows that stay meaningful as systems scale. I focus on event modeling, pipeline evolution, and truthful systems built with Kafka, Flink, lakehouses, and metadata-aware fabrics.
+- I'm drawn to data architecture and streaming for how they shape system behavior, building event-driven flows that stay meaningful as systems scale.
+- I focus on event modeling, pipeline evolution, and truthful systems built with Kafka, Flink, lakehouses, and metadata-aware fabrics.
 - I work across the stack — designing distributed systems, building LLM-powered tools, deploying containerized applications, and obsessing a bit over observability and feedback loops.
 
 I believe in systems that are simple (but not simplistic), honest (especially about failure), and built with care.
