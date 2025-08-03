@@ -47,7 +47,5 @@ You’ve reached the end of a README. You’re still here. That’s something.
 
 If you believe software should be honest, data streams should be traceable, alerts should make sense, and LLMs should occasionally crack a joke — let’s talk.
 
-Code is temporary. Logs are forever.
-
 [https://www.linkedin.com/in/shouvikbasu/](https://www.linkedin.com/in/shouvikbasu/)
 
