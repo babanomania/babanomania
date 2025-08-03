@@ -1,6 +1,6 @@
 # Hi, I'm Shouvik
 
-Welcome to my GitHub profile. I explore ideas, break things (sometimes on purpose), and try to build software that's useful, secure, and a little bit different.
+Welcome to my GitHub. I explore ideas, poke complex systems until they blink, and build software that’s useful, secure, and not entirely predictable.
 
 ## About Me
 
